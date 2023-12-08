@@ -47,7 +47,7 @@ jobs:
 
           git commit -am "GH ACTION Headlines $(date)"
 
-          git push origin data_log
+          git push
 
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
