@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+nbclient
+Selenium
+regex
+numpy
+pymongo
