@@ -1,0 +1,785 @@
+{
+  "0":{
+    "rank":"1",
+    "name":"Palworld",
+    "price_format":"26.99",
+    "current_player":832847,
+    "peak_player":1864421,
+    "link":"https:\/\/store.steampowered.com\/app\/1623730\/Palworld?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Adventure",
+      " Indie",
+      " RPG",
+      " Early Access"
+    ],
+    "description":"Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
+    "feature_list":[
+      "Single-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "num_genre":5,
+    "supported_languages":[
+      "English",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Portuguese - Brazil",
+      "Russian",
+      "Korean"
+    ],
+    "release_date":"Jan 18, 2024",
+    "developer":"Pocketpair",
+    "publisher":"Pocketpair",
+    "num_curators":156,
+    "num_reviews":[
+      "All (69,232)\nPositive (65,020)\nNegative (4,212)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: Windows 10 or later (64-Bit)\nProcessor: i5-3570K 3.4 GHz 4 Core\nMemory: 16 GB RAM\nGraphics: GeForce GTX 1050 (2GB)\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space\nAdditional Notes: Internet connection required for multiplayer. SSD required.\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS: Windows 10 or later (64-Bit)\nProcessor: i9-9900K 3.6 GHz 8 Core\nMemory: 32 GB RAM\nGraphics: GeForce RTX 2070\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space\nAdditional Notes: Internet connection required for multiplayer. SSD required."
+    ],
+    "num_pos_reviews":"65020",
+    "num_neg_reviews":"4212",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":4,
+    "num_supported_languages":11,
+    "num_requirements":1
+  },
+  "1":{
+    "rank":"2",
+    "name":"Counter-Strike 2",
+    "price_format":0.0,
+    "current_player":527171,
+    "peak_player":868187,
+    "link":"https:\/\/store.steampowered.com\/app\/730\/CounterStrike_2?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Free to Play"
+    ],
+    "description":"For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+    "feature_list":[
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
+    ],
+    "num_genre":2,
+    "supported_languages":[
+      "English",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "Hungarian",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Norwegian",
+      "Polish",
+      "Portuguese - Portugal",
+      "Portuguese - Brazil",
+      "Romanian",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Spain",
+      "Swedish",
+      "Thai",
+      "Traditional Chinese",
+      "Turkish",
+      "Bulgarian",
+      "Ukrainian",
+      "Greek",
+      "Spanish - Latin America",
+      "Vietnamese"
+    ],
+    "release_date":"Aug 21, 2012",
+    "developer":"Valve",
+    "publisher":"Valve",
+    "num_curators":12714,
+    "num_reviews":[
+      "All (7,849,284)\nPositive (6,873,871)\nNegative (975,413)"
+    ],
+    "requirements":[
+      "MINIMUM:\nOS: Windows\u00ae 10\nProcessor: 4 hardware CPU threads - Intel\u00ae Core\u2122 i5 750 or higher\nMemory: 8 GB RAM\nGraphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0\nDirectX: Version 11\nStorage: 85 GB available space",
+      "MINIMUM:\nOS: Ubuntu 20.04\nProcessor: 4 hardware CPU threads - Intel\u00ae Core\u2122 i5 750 or higher\nMemory: 8 GB RAM\nGraphics: AMD GCN+ or NVIDIA Kepler+ with up-to-date Vulkan drivers. Support for VK_EXT_graphics_pipeline_library highly recommended.\nStorage: 85 GB available space\nSound Card: Highly recommended"
+    ],
+    "num_pos_reviews":"6873871",
+    "num_neg_reviews":"975413",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":9,
+    "num_supported_languages":28,
+    "num_requirements":2
+  },
+  "2":{
+    "rank":"3",
+    "name":"Dota 2",
+    "price_format":0.0,
+    "current_player":307785,
+    "peak_player":607118,
+    "link":"https:\/\/store.steampowered.com\/app\/570\/Dota_2?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Strategy",
+      " Free to Play"
+    ],
+    "description":"Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+    "feature_list":[
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "SteamVR Collectibles",
+      "In-App Purchases",
+      "Valve Anti-Cheat enabled"
+    ],
+    "num_genre":3,
+    "supported_languages":[
+      "English",
+      "Bulgarian",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "Greek",
+      "Hungarian",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Norwegian",
+      "Polish",
+      "Portuguese - Portugal",
+      "Portuguese - Brazil",
+      "Romanian",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Spain",
+      "Swedish",
+      "Thai",
+      "Traditional Chinese",
+      "Turkish",
+      "Ukrainian",
+      "Spanish - Latin America",
+      "Vietnamese"
+    ],
+    "release_date":"Jul 9, 2013",
+    "developer":"Valve",
+    "publisher":"Valve",
+    "num_curators":3252,
+    "num_reviews":[
+      "All (2,159,049)\nPositive (1,771,111)\nNegative (387,938)"
+    ],
+    "requirements":[
+      "MINIMUM:\nOS *: Windows 7 or newer\nProcessor: Dual core from Intel or AMD at 2.8 GHz\nMemory: 4 GB RAM\nGraphics: NVIDIA GeForce 8600\/9600GT, ATI\/AMD Radeon HD2600\/3600\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 60 GB available space\nSound Card: DirectX Compatible",
+      "MINIMUM:\nOS: macOS 10.13.6 or newer\nProcessor: Dual core from Intel\nMemory: 4 GB RAM\nGraphics: Metal-capable GPU (AMD GCN-based GPU or newer, NVIDIA Kepler-based GPU or newer, Intel HD 4000 or newer)\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+      "MINIMUM:\nOS: Ubuntu 12.04 or newer\nProcessor: Dual core from Intel or AMD at 2.8 GHz\nMemory: 4 GB RAM\nGraphics: AMD GCN+, NVIDIA Kepler+, or Intel HD 5000-series or newer\nNetwork: Broadband Internet connection\nStorage: 60 GB available space\nSound Card: OpenAL Compatible Sound Card"
+    ],
+    "num_pos_reviews":"1771111",
+    "num_neg_reviews":"387938",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":5,
+    "num_supported_languages":28,
+    "num_requirements":3
+  },
+  "3":{
+    "rank":"5",
+    "name":"PUBG: BATTLEGROUNDS",
+    "price_format":0.0,
+    "current_player":93211,
+    "peak_player":518910,
+    "link":"https:\/\/store.steampowered.com\/app\/578080\/PUBG_BATTLEGROUNDS?snr=1_7001_7005__7003",
+    "genre":[
+      "Adventure",
+      " RPG",
+      " Strategy"
+    ],
+    "description":"Baldur\u2019s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+    "feature_list":[
+      "Single-player",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "num_genre":3,
+    "supported_languages":[
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Polish",
+      "Russian",
+      "Simplified Chinese",
+      "Turkish",
+      "Portuguese - Brazil",
+      "Italian",
+      "Spanish - Latin America",
+      "Traditional Chinese",
+      "Ukrainian",
+      "Korean",
+      "Japanese"
+    ],
+    "release_date":"Aug 3, 2023",
+    "developer":"Larian Studios",
+    "publisher":"Larian Studios",
+    "num_curators":724,
+    "num_reviews":[
+      "All (547,377)\nPositive (529,667)\nNegative (17,710)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit\nProcessor: Intel I5 4690 \/ AMD FX 8350\nMemory: 8 GB RAM\nGraphics: Nvidia GTX 970 \/ RX 480 (4GB+ of VRAM)\nDirectX: Version 11\nStorage: 150 GB available space\nAdditional Notes: SSD required\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit\nProcessor: Intel i7 8700K \/ AMD r5 3600\nMemory: 16 GB RAM\nGraphics: Nvidia 2060 Super \/ RX 5700 XT (8GB+ of VRAM)\nDirectX: Version 11\nStorage: 150 GB available space\nAdditional Notes: SSD required"
+    ],
+    "num_pos_reviews":"529667",
+    "num_neg_reviews":"17710",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":5,
+    "num_supported_languages":15,
+    "num_requirements":1
+  },
+  "4":{
+    "rank":"7",
+    "name":"Team Fortress 2",
+    "price_format":0.0,
+    "current_player":90630,
+    "peak_player":93223,
+    "link":"https:\/\/store.steampowered.com\/app\/440\/Team_Fortress_2?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Free to Play"
+    ],
+    "description":"Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+    "feature_list":[
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "num_genre":2,
+    "supported_languages":[
+      "English",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "Italian",
+      "Japanese",
+      "Norwegian",
+      "Polish",
+      "Portuguese - Portugal",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Spain",
+      "Swedish",
+      "Traditional Chinese",
+      "Korean",
+      "Czech",
+      "Hungarian",
+      "Portuguese - Brazil",
+      "Turkish",
+      "Greek",
+      "Bulgarian",
+      "Romanian",
+      "Thai",
+      "Ukrainian"
+    ],
+    "release_date":"Oct 10, 2007",
+    "developer":"Valve",
+    "publisher":"Valve",
+    "num_curators":8585,
+    "num_reviews":[
+      "All (1,023,993)\nPositive (961,352)\nNegative (62,641)"
+    ],
+    "requirements":[
+      "MINIMUM:\nOS *: Windows\u00ae 7 (32\/64-bit)\/Vista\/XP\nProcessor: 1.7 GHz Processor or better\nMemory: 512 MB RAM\nDirectX: Version 8.1\nNetwork: Broadband Internet connection\nStorage: 15 GB available space\nRECOMMENDED:\nOS *: Windows\u00ae 7 (32\/64-bit)\nProcessor: Pentium 4 processor (3.0GHz, or better)\nMemory: 1 GB RAM\nDirectX: Version 9.0c\nNetwork: Broadband Internet connection\nStorage: 15 GB available space\n* Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions."
+    ],
+    "num_pos_reviews":"961352",
+    "num_neg_reviews":"62641",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":12,
+    "num_supported_languages":26,
+    "num_requirements":1
+  },
+  "5":{
+    "rank":"8",
+    "name":"Grand Theft Auto V",
+    "price_format":"19.79",
+    "current_player":79279,
+    "peak_player":160707,
+    "link":"https:\/\/store.steampowered.com\/app\/271590\/Grand_Theft_Auto_V?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Adventure"
+    ],
+    "description":"Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+    "feature_list":[
+      "Single-player",
+      "Online PvP",
+      "Online Co-op",
+      "Steam Achievements",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
+    ],
+    "num_genre":2,
+    "supported_languages":[
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Traditional Chinese",
+      "Japanese",
+      "Simplified Chinese",
+      "Spanish - Latin America"
+    ],
+    "release_date":"Apr 14, 2015",
+    "developer":"Rockstar North",
+    "publisher":"Rockstar Games",
+    "num_curators":5115,
+    "num_reviews":[
+      "All (1,729,275)\nPositive (1,495,961)\nNegative (233,314)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS *: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1\nProcessor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) \/ AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz\nMemory: 4 GB RAM\nGraphics: NVIDIA 9800 GT 1GB \/ AMD HD 4870 1GB (DX 10, 10.1, 11)\nStorage: 110 GB available space\nSound Card: 100% DirectX 10 compatible\nAdditional Notes: Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher. Other requirements: Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes. SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE. Partner Requirements: Please check the terms of service of this site before purchasing this software.\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS *: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1\nProcessor: Intel Core i5 3470 @ 3.2GHz (4 CPUs) \/ AMD X8 FX-8350 @ 4GHz (8 CPUs)\nMemory: 8 GB RAM\nGraphics: NVIDIA GTX 660 2GB \/ AMD HD 7870 2GB\nStorage: 110 GB available space\nSound Card: 100% DirectX 10 compatible"
+    ],
+    "num_pos_reviews":"1495961",
+    "num_neg_reviews":"233314",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":7,
+    "num_supported_languages":13,
+    "num_requirements":1
+  },
+  "6":{
+    "rank":"9",
+    "name":"Rust",
+    "price_format":"39.99",
+    "current_player":72799,
+    "peak_player":106020,
+    "link":"https:\/\/store.steampowered.com\/app\/252490\/Rust?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Adventure",
+      " Indie",
+      " Massively Multiplayer",
+      " RPG"
+    ],
+    "description":"The only aim in Rust is to survive. Everything wants you to die - the island\u2019s wildlife and other inhabitants, the environment, other survivors. Do whatever it takes to last another night.",
+    "feature_list":[
+      "MMO",
+      "Online PvP",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Remote Play on Tablet"
+    ],
+    "num_genre":5,
+    "supported_languages":[
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Russian",
+      "Simplified Chinese",
+      "Ukrainian",
+      "Polish",
+      "Portuguese - Portugal",
+      "Turkish",
+      "Arabic",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "Greek",
+      "Norwegian",
+      "Portuguese - Brazil",
+      "Spanish - Latin America",
+      "Swedish",
+      "Traditional Chinese",
+      "Vietnamese"
+    ],
+    "release_date":"Feb 8, 2018",
+    "developer":"Facepunch Studios",
+    "publisher":"Facepunch Studios",
+    "num_curators":3040,
+    "num_reviews":[
+      "All (1,020,209)\nPositive (888,452)\nNegative (131,757)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64bit\nProcessor: Intel Core i7-3770 \/ AMD FX-9590 or better\nMemory: 10 GB RAM\nGraphics: GTX 670 2GB \/ AMD R9 280 better\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 25 GB available space\nAdditional Notes: SSD is highly recommended or expect longer than average load times.\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS: Windows 11 64bit\nProcessor: Intel Core i7-4790K \/ AMD Ryzen 5 1600\nMemory: 16 GB RAM\nGraphics: GTX 980 \/ AMD R9 Fury\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 25 GB available space\nAdditional Notes: SSD Required"
+    ],
+    "num_pos_reviews":"888452",
+    "num_neg_reviews":"131757",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":11,
+    "num_supported_languages":25,
+    "num_requirements":1
+  },
+  "7":{
+    "rank":"10",
+    "name":"Apex Legends\u2122",
+    "price_format":0.0,
+    "current_player":71487,
+    "peak_player":255534,
+    "link":"https:\/\/store.steampowered.com\/app\/1172470\/Apex_Legends?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Adventure",
+      " Free to Play"
+    ],
+    "description":"Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+    "feature_list":[
+      "Online PvP",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases"
+    ],
+    "num_genre":3,
+    "supported_languages":[
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Spanish - Latin America",
+      "Arabic"
+    ],
+    "release_date":"Nov 5, 2020",
+    "developer":"Respawn Entertainment",
+    "publisher":"Electronic Arts",
+    "num_curators":996,
+    "num_reviews":[
+      "All (783,743)\nPositive (619,056)\nNegative (164,687)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent\nMemory: 6 GB RAM\nGraphics: AMD Radeon\u2122 HD 7730, NVIDIA GeForce\u00ae GT 640\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Ryzen 5 CPU or Equivalent\nMemory: 8 GB RAM\nGraphics: AMD Radeon\u2122 R9 290, NVIDIA GeForce\u00ae GTX 970\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language"
+    ],
+    "num_pos_reviews":"619056",
+    "num_neg_reviews":"164687",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":5,
+    "num_supported_languages":14,
+    "num_requirements":1
+  },
+  "8":{
+    "rank":"11",
+    "name":"Lethal Company",
+    "price_format":"9.99",
+    "current_player":57584,
+    "peak_player":97306,
+    "link":"https:\/\/store.steampowered.com\/app\/1966720\/Lethal_Company?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " Adventure",
+      " Indie",
+      " Early Access"
+    ],
+    "description":"A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+    "feature_list":[
+      "Single-player",
+      "Online Co-op"
+    ],
+    "num_genre":4,
+    "supported_languages":[
+      "English"
+    ],
+    "release_date":"Oct 23, 2023",
+    "developer":"Zeekerss",
+    "publisher":"Zeekerss",
+    "num_curators":300,
+    "num_reviews":[
+      "All (303,846)\nPositive (297,367)\nNegative (6,479)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5\nGraphics: NVIDIA GForce GTX 1050\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 1 GB available space\nRECOMMENDED:\nRequires a 64-bit processor and operating system"
+    ],
+    "num_pos_reviews":"297367",
+    "num_neg_reviews":"6479",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":2,
+    "num_supported_languages":1,
+    "num_requirements":1
+  },
+  "9":{
+    "rank":"12",
+    "name":"Warframe",
+    "price_format":0.0,
+    "current_player":55990,
+    "peak_player":76773,
+    "link":"https:\/\/store.steampowered.com\/app\/230410\/Warframe?snr=1_7001_7005__7003",
+    "genre":[
+      "Action",
+      " RPG",
+      " Free to Play"
+    ],
+    "description":"Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
+    "feature_list":[
+      "Single-player",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "num_genre":3,
+    "supported_languages":[
+      "English",
+      "German",
+      "French",
+      "Italian",
+      "Korean",
+      "Spanish - Spain",
+      "Simplified Chinese",
+      "Russian",
+      "Japanese",
+      "Polish",
+      "Portuguese - Brazil",
+      "Traditional Chinese",
+      "Turkish",
+      "Ukrainian"
+    ],
+    "release_date":"Mar 25, 2013",
+    "developer":"Digital Extremes",
+    "publisher":"Digital Extremes",
+    "num_curators":2111,
+    "num_reviews":[
+      "All (565,362)\nPositive (489,796)\nNegative (75,566)"
+    ],
+    "requirements":[
+      "MINIMUM:\nOS *:Windows 7 64-Bit (32-bit not supported)\nProcessor:Intel Core i7 860, Intel Core i5 750, or AMD FX-4100 (SSE 4.2 support required)\nVideo:DirectX 11+ capable Graphics Card\nMemory:4 GB RAM\nStorage:50 GB available HD space\nInternet:Broadband Internet Connection Required\n\nNote: There is no Mac or Linux client currently available.\n* Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions."
+    ],
+    "num_pos_reviews":"489796",
+    "num_neg_reviews":"75566",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":8,
+    "num_supported_languages":14,
+    "num_requirements":1
+  },
+  "10":{
+    "rank":"14",
+    "name":"Tom Clancy's Rainbow Six\u00ae Siege",
+    "price_format":"19.99",
+    "current_player":53981,
+    "peak_player":64462,
+    "link":"https:\/\/store.steampowered.com\/app\/359550\/Tom_Clancys_Rainbow_Six_Siege?snr=1_7001_7005__7003",
+    "genre":[
+      "Action"
+    ],
+    "description":"Tom Clancy's Rainbow Six\u00ae Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+    "feature_list":[
+      "Single-player",
+      "Online PvP",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "num_genre":1,
+    "supported_languages":[
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Czech",
+      "Dutch",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Traditional Chinese",
+      "Simplified Chinese",
+      "Turkish",
+      "Thai"
+    ],
+    "release_date":"Dec 1, 2015",
+    "developer":"Ubisoft Montreal",
+    "publisher":"Ubisoft",
+    "num_curators":2326,
+    "num_reviews":[
+      "All (1,223,600)\nPositive (1,047,758)\nNegative (175,842)"
+    ],
+    "requirements":[
+      "MINIMUM:\nOS *: Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\nProcessor: Intel Core i3 560 @ 3.3 GHz or AMD Phenom II X4 945 @ 3.0 GHz\nMemory: 6 GB RAM\nGraphics: NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM)\nNetwork: Broadband Internet connection\nStorage: 61 GB available space\nSound Card: DirectX\u00ae 9.0c compatible sound card with latest drivers\nAdditional Notes: SUPPORTED VIDEO CARDS AT TIME OF RELEASE: GeForce GTX 460 or better, GTX 560 or better, GTX 650 or better, GTX 750 or better, or any card from the GT900 and Titan Series, Radeon HD5870 or better, HD6870 or better, HD7770 or better, R7 260X or better, or any card from the R-300 series and Fury X. Laptop models of these cards may work but are not supported. These chipsets are the only ones that will run this game. Additional chipsets may be supported after release. For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website: . Game contains FairFight and BattleEye anti-cheat technology.\nRECOMMENDED:\nOS *: Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS\nProcessor: Intel Core i5-2500K @ 3.3 GHz or better or AMD FX-8120 @ 3.1 Ghz or better\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 670 (or GTX 760 \/ GTX 960) or AMD Radeon HD 7970 (or R9 280x [2GB VRAM] \/ R9 380 \/ Fury X)\nNetwork: Broadband Internet connection\nStorage: 61 GB available space\nSound Card: DirectX\u00ae 9.0c compatible sound card 5.1 with latest drivers"
+    ],
+    "num_pos_reviews":"1047758",
+    "num_neg_reviews":"175842",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":7,
+    "num_supported_languages":16,
+    "num_requirements":1
+  },
+  "11":{
+    "rank":"99",
+    "name":"Age of Empires IV: Anniversary Edition",
+    "price_format":"39.99",
+    "current_player":7882,
+    "peak_player":15661,
+    "link":"https:\/\/store.steampowered.com\/app\/1466860\/Age_of_Empires_IV_Anniversary_Edition?snr=1_7001_7005__7003",
+    "genre":[
+      "Strategy"
+    ],
+    "description":"Celebrating its first year of delighting millions of global players, the award-winning and best-selling strategy franchise continues with Age of Empires IV: Anniversary Edition, putting you at the center of even more epic historical battles that shaped the world.",
+    "feature_list":[
+      "Single-player",
+      "Online PvP",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements"
+    ],
+    "num_genre":1,
+    "supported_languages":[
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Latin America",
+      "Traditional Chinese",
+      "Turkish",
+      "Vietnamese",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "Greek",
+      "Hungarian",
+      "Norwegian",
+      "Polish",
+      "Portuguese - Portugal",
+      "Swedish",
+      "Hindi"
+    ],
+    "release_date":"Oct 28, 2021",
+    "developer":"Relic Entertainment, Forgotten Empires, Climax Studios,",
+    "publisher":"Xbox Game Studios",
+    "num_curators":198,
+    "num_reviews":[
+      "All (62,990)\nPositive (54,655)\nNegative (8,335)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64bit | Windows 11 64bit\nProcessor: Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required\nMemory: 8 GB RAM\nGraphics: Intel HD 520 or AMD Radeon RX Vega 11\nDirectX: Version 12\nStorage: 50 GB available space\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64bit | Windows 11 64bit\nProcessor: 3.6 GHz 6-core (Intel i5) or AMD Ryzen 5 1600 | CPU with AVX support required\nMemory: 16 GB RAM\nGraphics: Nvidia GeForce 970 GPU or AMD Radeon RX 570 GPU with 4GB of VRAM\nDirectX: Version 12\nStorage: 50 GB available space\nAdditional Notes: 4 GB of video RAM and 16 GB of system RAM"
+    ],
+    "num_pos_reviews":"54655",
+    "num_neg_reviews":"8335",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":5,
+    "num_supported_languages":25,
+    "num_requirements":1
+  },
+  "12":{
+    "rank":"100",
+    "name":"Summoners War",
+    "price_format":0.0,
+    "current_player":7710,
+    "peak_player":10163,
+    "link":"https:\/\/store.steampowered.com\/app\/2426960\/Summoners_War?snr=1_7001_7005__7003",
+    "genre":[
+      "RPG",
+      " Strategy",
+      " Free to Play"
+    ],
+    "description":"A global hit RPG that captured the Summoners all around the world! Jump into the Sky Arena, a world under battle over the vital resource: Mana Crystals. Design your own deck and strategy using over 1,500 Monsters to claim victory. Go on an epic adventure with your Monsters!",
+    "feature_list":[
+      "Online PvP",
+      "In-App Purchases"
+    ],
+    "num_genre":3,
+    "supported_languages":[
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Arabic",
+      "Japanese",
+      "Korean",
+      "Russian",
+      "Simplified Chinese",
+      "Thai",
+      "Traditional Chinese",
+      "Turkish",
+      "Vietnamese",
+      "Indonesian",
+      "Portuguese - Brazil"
+    ],
+    "release_date":"Jan 8, 2024",
+    "developer":"Com2uS",
+    "publisher":"Com2uS",
+    "num_curators":6,
+    "num_reviews":[
+      "All (3,221)\nPositive (2,386)\nNegative (835)"
+    ],
+    "requirements":[
+      "MINIMUM:\nRequires a 64-bit processor and operating system\nOS: windows10 (64bit)\nProcessor: Intel Core i3\nMemory: 4 GB RAM\nGraphics: NVIDIA GTX 460 or higher\nDirectX: Version 11\nStorage: 10 GB available space\nSound Card: Onboard Audio or higher\nRECOMMENDED:\nRequires a 64-bit processor and operating system\nOS: windows10 (64bit)\nProcessor: Intel Core i5\nMemory: 8 GB RAM\nGraphics: NVIDIA GTX 660 or higher\nDirectX: Version 11\nStorage: 10 GB available space\nSound Card: Onboard Audio or higher"
+    ],
+    "num_pos_reviews":"2386",
+    "num_neg_reviews":"835",
+    "hour":"23",
+    "date":"2024-01-23",
+    "num_feature_list":2,
+    "num_supported_languages":16,
+    "num_requirements":1
+  }
+}
